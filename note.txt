@@ -1,0 +1,5 @@
+To setup the project:
+https://docs.microsoft.com/en-us/cpp/build/creating-a-resource-only-dll?view=msvc-170
+
+To convert the source images to ico
+https://convertico.com/

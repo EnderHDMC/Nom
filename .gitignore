@@ -1,0 +1,11 @@
+# VS files
+.vs/
+
+# VS user files
+Nom.vcxproj.user
+
+# VS output
+Release/
+
+# Resouce index?
+Resource.aps

@@ -1,0 +1,101 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United Kingdom) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENG)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_UK
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+KIRBY_EMPTY0               ICON                    "kirby\\kirby-empty0.ico"
+
+KIRBY_EMPTY1               ICON                    "kirby\\kirby-empty1.ico"
+
+KIRBY_EMPTY2               ICON                    "kirby\\kirby-empty2.ico"
+
+KIRBY_EMPTY3               ICON                    "kirby\\kirby-empty3.ico"
+
+KIRBY_EMPTY4               ICON                    "kirby\\kirby-empty4.ico"
+
+KIRBY_EMPTY5               ICON                    "kirby\\kirby-empty5.ico"
+
+KIRBY_EMPTY6               ICON                    "kirby\\kirby-empty6.ico"
+
+KIRBY_EMPTY7               ICON                    "kirby\\kirby-empty7.ico"
+
+KIRBY_FULL0                ICON                    "kirby\\kirby-full0.ico"
+
+KIRBY_FULL1                ICON                    "kirby\\kirby-full1.ico"
+
+PATRICK_STAR_EMPTY         ICON                    "patrick-star\\patrick-star-empty.ico"
+
+PATRICK_STAR_FULL          ICON                    "patrick-star\\patrick-star-full.ico"
+
+POP_CAT_EMPTY              ICON                    "pop-cat\\pop-cat-empty.ico"
+
+POP_CAT_FULL               ICON                    "pop-cat\\pop-cat-full.ico"
+
+POP_CAT_TOON_EMPTY              ICON                    "pop-cat\\pop-cat-toon-empty.ico"
+
+POP_CAT_TOON_FULL               ICON                    "pop-cat\\pop-cat-toon-full.ico"
+
+#endif    // English (United Kingdom) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
